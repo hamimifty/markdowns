@@ -107,7 +107,10 @@ Well, do I have [the website for you][another fun place]!
 # <u>Paragraphs:</u>
 
 
-We pictured the meek mild creatures where They dwelt in their strawy pen, Nor did it occur to one of us there To doubt they were kneeling then.
+We pictured the meek mild creatures where 
+They dwelt in their strawy pen,
+Nor did it occur to one of us there 
+To doubt they were kneeling then.
 
 1. Crack three eggs over a bowl.
    
